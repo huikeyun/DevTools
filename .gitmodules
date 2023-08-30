@@ -1,3 +1,6 @@
 [submodule "node-v18.17.1"]
 	path = node-v18.17.1
 	url = https://github.com/huikeyun/node-v18.17.1.git
+[submodule "android_sdk"]
+	path = android_sdk
+	url = https://github.com/huikeyun/android_sdk.git
