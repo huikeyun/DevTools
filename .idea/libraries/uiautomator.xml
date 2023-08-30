@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="uiautomator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android_sdk/.temp/PackageOperation01/unzip/android-9/uiautomator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

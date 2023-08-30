@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="optional1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android_sdk/.temp/PackageOperation01/unzip/android-9/optional/org.apache.http.legacy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_sdk/.temp/PackageOperation01/unzip/android-9/optional/android.test.mock.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_sdk/.temp/PackageOperation01/unzip/android-9/optional/android.test.runner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android_sdk/.temp/PackageOperation01/unzip/android-9/optional/android.test.base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
